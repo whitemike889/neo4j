@@ -1,4 +1,4 @@
-# neo4j Docker Image by scorpion.io
+# Neo4j Docker Image by scorpion.io
 
 Neo4j Docker image by [scorpion.io](https://scorpion.io). This docker image is used by invoking an asterism for various [constellation](https://constellations.sh/) projects.
 
